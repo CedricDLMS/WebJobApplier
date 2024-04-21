@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebJobApplier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23e3a9299e253643f43b2b6b8e18818dd0eb8e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebJobApplier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebJobApplier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

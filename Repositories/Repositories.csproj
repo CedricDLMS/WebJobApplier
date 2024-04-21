@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Contsant\Contsant.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 

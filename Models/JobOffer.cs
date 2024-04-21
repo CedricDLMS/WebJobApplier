@@ -13,6 +13,7 @@ namespace Models
     {
         public int Id { get; set; }
         public string Text { get; set; }
+        public string CompanyName { get; set; }
         public string Url { get; set; }
         public DateTime addDate { get; set; }
         public string City { get; set; }
