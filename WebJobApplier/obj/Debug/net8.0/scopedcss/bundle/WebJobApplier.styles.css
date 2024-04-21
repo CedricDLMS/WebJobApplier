@@ -1,0 +1,49 @@
+/* _content/WebJobApplier/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-sizn8tc93j] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-sizn8tc93j] {
+  color: #0077cc;
+}
+
+.btn-primary[b-sizn8tc93j] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-sizn8tc93j], .nav-pills .show > .nav-link[b-sizn8tc93j] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-sizn8tc93j] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-sizn8tc93j] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-sizn8tc93j] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-sizn8tc93j] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-sizn8tc93j] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
