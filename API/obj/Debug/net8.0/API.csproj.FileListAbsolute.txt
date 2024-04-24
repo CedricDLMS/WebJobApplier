@@ -129,3 +129,9 @@ C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\API.xml
 C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\API.pdb
 C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Repositories.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Repositories.pdb
+C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.pdb

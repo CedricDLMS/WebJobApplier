@@ -12,3 +12,4 @@ C:\Users\delma\source\repos\WebJobApplier\Models\obj\Debug\net8.0\refint\Models.
 C:\Users\delma\source\repos\WebJobApplier\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\delma\source\repos\WebJobApplier\Models\obj\Debug\net8.0\Models.genruntimeconfig.cache
 C:\Users\delma\source\repos\WebJobApplier\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\delma\source\repos\WebJobApplier\Models\obj\Debug\net8.0\Models.sourcelink.json

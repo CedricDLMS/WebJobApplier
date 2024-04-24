@@ -2,12 +2,14 @@ using Microsoft.EntityFrameworkCore;
 using Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore.Sqlite;
+using Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<ScrappingCSV>();
 
 // adding DB context 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=MyDatabase.db"));

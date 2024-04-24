@@ -4,12 +4,12 @@
     "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Contsant.csproj": {
+    "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Contsant.csproj",
-        "projectName": "Contsant",
-        "projectPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Contsant.csproj",
+        "projectUniqueName": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.csproj",
+        "projectName": "Constant",
+        "projectPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.csproj",
         "packagesPath": "C:\\Users\\delma\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\obj\\",
         "projectStyle": "PackageReference",
@@ -51,6 +51,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[31.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -195,8 +221,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Contsant.csproj": {
-                "projectPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Contsant.csproj"
+              "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.csproj": {
+                "projectPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.csproj"
               },
               "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Models.csproj"
@@ -222,6 +248,26 @@
             "CsvHelper": {
               "target": "Package",
               "version": "[31.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

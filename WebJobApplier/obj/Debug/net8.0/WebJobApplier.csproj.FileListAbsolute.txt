@@ -125,3 +125,5 @@ C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\obj\Debug\net8.0\refint\
 C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\obj\Debug\net8.0\WebJobApplier.pdb
 C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\obj\Debug\net8.0\WebJobApplier.genruntimeconfig.cache
 C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\obj\Debug\net8.0\ref\WebJobApplier.dll
+C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\delma\source\repos\WebJobApplier\WebJobApplier\obj\Debug\net8.0\WebJobApplier.sourcelink.json

@@ -11,8 +11,8 @@ using Models;
 namespace Models.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240421150218_first")]
-    partial class first
+    [Migration("20240423233105_JobOfferChange2")]
+    partial class JobOfferChange2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -55,11 +55,9 @@ namespace Models.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Infos")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
@@ -78,21 +76,25 @@ namespace Models.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("EntrepriseID")
+                    b.Property<string>("CompanyName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int?>("EntrepriseID")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Text")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Url")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("addDate")
+                    b.Property<DateTime?>("addDate")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("sId")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
@@ -179,9 +181,7 @@ namespace Models.Migrations
                 {
                     b.HasOne("Models.Entreprise", "Entreprise")
                         .WithMany("JobOffers")
-                        .HasForeignKey("EntrepriseID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EntrepriseID");
 
                     b.Navigation("Entreprise");
                 });
