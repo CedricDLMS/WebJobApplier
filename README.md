@@ -1,5 +1,7 @@
 # WELCOME TO WebJobApplier
 
+/!\ WORK IN PROGRESS , NOTHING WORKS YET /!\
+
 ## A .Net / Python / AI Tool to apply fast and easely on Indeed
 
 This tool is designed to be used in Area with a lot of Jobs offers, when finished you will be able to auto generate "Letter of Motivation" using a AI (might be GPT 3.5, don't know yet). 
