@@ -3,68 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\scrappingcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\scrappingcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86EFCC80-17BA-49F6-9614-C26AB4DC2AC9}|Contsant\\Constant.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\contsant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86EFCC80-17BA-49F6-9614-C26AB4DC2AC9}|Contsant\\Constant.csproj|solutionrelative:contsant\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\setup.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|solutionrelative:Python\\JIM-jobs-scraper-FR\\setup.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\scraper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|solutionrelative:Python\\JIM-jobs-scraper-FR\\scraper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|solutionrelative:Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|solutionrelative:Python\\JIM-jobs-scraper-FR\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BB7E392A-E4C4-4A1E-8D27-6E91ECA33147}|Python\\JIM-jobs-scraper-FR\\JIM-jobs-scraper-FR.pyproj|solutionrelative:Python\\JIM-jobs-scraper-FR\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A82A80-9DFA-4E83-97F4-46DC3A94BAF9}|API\\API.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\api\\controllers\\scrappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A82A80-9DFA-4E83-97F4-46DC3A94BAF9}|API\\API.csproj|solutionrelative:api\\controllers\\scrappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233105_JobOfferChange2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240423233105_JobOfferChange2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233055_JobOfferChange2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240423233055_JobOfferChange2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\entreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\entreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A82A80-9DFA-4E83-97F4-46DC3A94BAF9}|API\\API.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A82A80-9DFA-4E83-97F4-46DC3A94BAF9}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423232002_JobOfferChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240423232002_JobOfferChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\userapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\userapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,214 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "scraper.py",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\scraper.py",
-              "RelativeDocumentMoniker": "Python\\JIM-jobs-scraper-FR\\scraper.py",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\scraper.py",
-              "RelativeToolTip": "Python\\JIM-jobs-scraper-FR\\scraper.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-24T00:49:54.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "setup.py",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\setup.py",
-              "RelativeDocumentMoniker": "Python\\JIM-jobs-scraper-FR\\setup.py",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\setup.py",
-              "RelativeToolTip": "Python\\JIM-jobs-scraper-FR\\setup.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-04-24T00:49:54.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "requirements.txt",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\requirements.txt",
-              "RelativeDocumentMoniker": "Python\\JIM-jobs-scraper-FR\\requirements.txt",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\requirements.txt",
-              "RelativeToolTip": "Python\\JIM-jobs-scraper-FR\\requirements.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-24T00:49:22.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\README.md",
-              "RelativeDocumentMoniker": "Python\\JIM-jobs-scraper-FR\\README.md",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\README.md",
-              "RelativeToolTip": "Python\\JIM-jobs-scraper-FR\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-24T00:49:21.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "scraped_indeed_jobs.csv",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv",
-              "RelativeDocumentMoniker": "Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv",
-              "RelativeToolTip": "Python\\JIM-jobs-scraper-FR\\job_db\\scraped_indeed_jobs.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-04-24T00:48:50.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Entreprise.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Entreprise.cs",
-              "RelativeDocumentMoniker": "Models\\Entreprise.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Entreprise.cs",
-              "RelativeToolTip": "Models\\Entreprise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:30:00.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:26:08.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScrappingCSV.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\ScrappingCSV.cs",
-              "RelativeDocumentMoniker": "Repositories\\ScrappingCSV.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\ScrappingCSV.cs",
-              "RelativeToolTip": "Repositories\\ScrappingCSV.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAANAAAA",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T22:32:17.551Z",
+              "WhenOpened": "2024-04-27T16:01:04.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Constant.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.cs",
-              "RelativeDocumentMoniker": "Contsant\\Constant.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Contsant\\Constant.cs",
-              "RelativeToolTip": "Contsant\\Constant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAB9AAAA",
+              "Title": "Formation.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Formation.cs",
+              "RelativeDocumentMoniker": "Models\\Formation.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Formation.cs",
+              "RelativeToolTip": "Models\\Formation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:00:36.813Z",
+              "WhenOpened": "2024-04-27T15:54:03.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240423233055_JobOfferChange2.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233055_JobOfferChange2.cs",
-              "RelativeDocumentMoniker": "Models\\Migrations\\20240423233055_JobOfferChange2.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233055_JobOfferChange2.cs",
-              "RelativeToolTip": "Models\\Migrations\\20240423233055_JobOfferChange2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Skills.cs",
+              "RelativeDocumentMoniker": "Models\\Skills.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Skills.cs",
+              "RelativeToolTip": "Models\\Skills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:30:55.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240423232002_JobOfferChange.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423232002_JobOfferChange.cs",
-              "RelativeDocumentMoniker": "Models\\Migrations\\20240423232002_JobOfferChange.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423232002_JobOfferChange.cs",
-              "RelativeToolTip": "Models\\Migrations\\20240423232002_JobOfferChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:20:02.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JobOffer.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\JobOffer.cs",
-              "RelativeDocumentMoniker": "Models\\JobOffer.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\JobOffer.cs",
-              "RelativeToolTip": "Models\\JobOffer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:18:27.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScrappingController.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\API\\Controllers\\ScrappingController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ScrappingController.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\API\\Controllers\\ScrappingController.cs",
-              "RelativeToolTip": "API\\Controllers\\ScrappingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:08:54.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserApplier.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\UserApplier.cs",
-              "RelativeDocumentMoniker": "Models\\UserApplier.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\UserApplier.cs",
-              "RelativeToolTip": "Models\\UserApplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T22:57:31.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240423233105_JobOfferChange2.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233105_JobOfferChange2.cs",
-              "RelativeDocumentMoniker": "Models\\Migrations\\20240423233105_JobOfferChange2.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240423233105_JobOfferChange2.cs",
-              "RelativeToolTip": "Models\\Migrations\\20240423233105_JobOfferChange2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:31:05.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T22:56:59.744Z",
+              "WhenOpened": "2024-04-27T15:50:09.621Z",
               "EditorCaption": ""
             }
           ]
