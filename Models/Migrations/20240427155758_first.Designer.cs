@@ -11,14 +11,29 @@ using Models;
 namespace Models.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240423233105_JobOfferChange2")]
-    partial class JobOfferChange2
+    [Migration("20240427155758_first")]
+    partial class first
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.4");
+
+            modelBuilder.Entity("FormationUserApplier", b =>
+                {
+                    b.Property<int>("AppliersId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("FormationsId")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("AppliersId", "FormationsId");
+
+                    b.HasIndex("FormationsId");
+
+                    b.ToTable("FormationUserApplier");
+                });
 
             modelBuilder.Entity("Models.Apply", b =>
                 {
@@ -67,6 +82,35 @@ namespace Models.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Entreprises");
+                });
+
+            modelBuilder.Entity("Models.Formation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<DateTime>("BeginDate")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Diploma")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime>("EndDate")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("SchoolName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Formation");
                 });
 
             modelBuilder.Entity("Models.JobOffer", b =>
@@ -128,6 +172,24 @@ namespace Models.Migrations
                     b.ToTable("MotivationLetters");
                 });
 
+            modelBuilder.Entity("Models.Skills", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime?>("YearOfPractice")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Skills");
+                });
+
             modelBuilder.Entity("Models.UserApplier", b =>
                 {
                     b.Property<int>("Id")
@@ -141,21 +203,51 @@ namespace Models.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Firstname")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("HomeLocation")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Resume")
+                    b.Property<string>("Lastname")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
                     b.ToTable("UserAppliers");
+                });
+
+            modelBuilder.Entity("SkillsUserApplier", b =>
+                {
+                    b.Property<int>("SkillsId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("UserAppliersId")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("SkillsId", "UserAppliersId");
+
+                    b.HasIndex("UserAppliersId");
+
+                    b.ToTable("SkillsUserApplier");
+                });
+
+            modelBuilder.Entity("FormationUserApplier", b =>
+                {
+                    b.HasOne("Models.UserApplier", null)
+                        .WithMany()
+                        .HasForeignKey("AppliersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Models.Formation", null)
+                        .WithMany()
+                        .HasForeignKey("FormationsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Models.Apply", b =>
@@ -195,6 +287,21 @@ namespace Models.Migrations
                         .IsRequired();
 
                     b.Navigation("Applier");
+                });
+
+            modelBuilder.Entity("SkillsUserApplier", b =>
+                {
+                    b.HasOne("Models.Skills", null)
+                        .WithMany()
+                        .HasForeignKey("SkillsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Models.UserApplier", null)
+                        .WithMany()
+                        .HasForeignKey("UserAppliersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Models.Entreprise", b =>
