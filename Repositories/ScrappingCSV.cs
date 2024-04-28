@@ -47,6 +47,9 @@ namespace Repositories
         }
 
     }
+    /// <summary>
+    /// used for mapping for CsvHelper
+    /// </summary>
     public class JobOfferMap : ClassMap<JobOffer>
     {
         public JobOfferMap()
