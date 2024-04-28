@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DTO.UserApplierDTOs;
+using Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +14,11 @@ namespace Repositories
     public class UserRepository
     {
 
-        
+        public async Task<UserApplierSimpleDTO> CreateUser()
+        {
 
+        } 
+    
 
     }
 }
