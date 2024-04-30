@@ -135,3 +135,5 @@ C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Repositories.pdb
 C:\Users\delma\source\repos\WebJobApplier\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.dll
 C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.pdb
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\DTO.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\DTO.pdb

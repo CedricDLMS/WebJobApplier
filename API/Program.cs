@@ -9,7 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
 builder.Services.AddScoped<ScrappingCSV>();
+builder.Services.AddScoped<UserRepository>();
+
 
 // adding DB context 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=MyDatabase.db"));

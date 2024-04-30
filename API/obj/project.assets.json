@@ -1143,6 +1143,19 @@
           "bin/placeholder/Constant.dll": {}
         }
       },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1164,6 +1177,7 @@
         "dependencies": {
           "Constant": "1.0.0",
           "CsvHelper": "31.0.4",
+          "DTO": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
           "Models": "1.0.0"
@@ -3072,6 +3086,11 @@
       "type": "project",
       "path": "../Contsant/Constant.csproj",
       "msbuildProject": "../Contsant/Constant.csproj"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
     },
     "Models/1.0.0": {
       "type": "project",

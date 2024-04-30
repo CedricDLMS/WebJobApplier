@@ -707,6 +707,14 @@
           "Constant.dll": {}
         }
       },
+      "DTO/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "DTO.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "dependencies": {
           "CsvHelper": "31.0.4",
@@ -721,6 +729,7 @@
         "dependencies": {
           "Constant": "1.0.0",
           "CsvHelper": "31.0.4",
+          "DTO": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.4",
           "Models": "1.0.0"
@@ -1116,6 +1125,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "Constant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
