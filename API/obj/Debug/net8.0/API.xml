@@ -4,5 +4,80 @@
         <name>API</name>
     </assembly>
     <members>
+        <member name="M:API.Controllers.SkillsController.AddSkillAsync(DTO.SkillDTO.SkillCreationDTO)">
+            <summary>
+            Adds a new skill asynchronously.
+            </summary>
+            <param name="skill">The skill creation DTO.</param>
+            <returns>
+            A task representing the asynchronous operation, returning an action result with the added skill DTO (<see cref="T:DTO.SkillDTO.GetSkillDTO"/>).
+            </returns>
+            <remarks>
+            This method asynchronously adds a new skill using the provided skill creation DTO.
+            It delegates the actual addition to the repository and returns the result as an action result.
+            If successful, it returns an HTTP 200 OK result with the added skill DTO.
+            If an exception occurs, it returns an HTTP 500 Internal Server Error with the exception message.
+            </remarks>
+        </member>
+        <member name="M:API.Controllers.SkillsController.GetAllSkillsAsync">
+            <summary>
+            Retrieves all skills asynchronously.
+            </summary>
+            <returns>
+            A task representing the asynchronous operation, returning an action result with a list of skill DTOs (<see cref="T:DTO.SkillDTO.GetSkillDTO"/>).
+            </returns>
+            <remarks>
+            This method asynchronously retrieves all skills from the repository.
+            It returns the result as an action result with a list of skill DTOs.
+            If successful, it returns an HTTP 200 OK result with the list of skill DTOs.
+            If an exception occurs, it returns an HTTP 500 Internal Server Error with the exception message.
+            </remarks>
+        </member>
+        <member name="M:API.Controllers.SkillsController.GetSkillByIdAsync(System.Int32)">
+            <summary>
+            Retrieves a skill by its ID asynchronously.
+            </summary>
+            <param name="id">The ID of the skill to retrieve.</param>
+            <returns>
+            A task representing the asynchronous operation, returning an action result with the skill DTO (<see cref="T:DTO.SkillDTO.GetSkillByIdDTO"/>).
+            </returns>
+            <remarks>
+            This method asynchronously retrieves a skill from the repository by its ID.
+            If the skill is found, it returns an HTTP 200 OK result with the skill DTO.
+            If the skill is not found, it returns an HTTP 404 Not Found result.
+            If an exception occurs, it returns an HTTP 500 Internal Server Error with the exception message.
+            </remarks>
+        </member>
+        <member name="M:API.Controllers.SkillsController.UpdateSkillAsync(DTO.SkillDTO.GetSkillDTO)">
+            <summary>
+            Updates a skill asynchronously.
+            </summary>
+            <param name="updatedSkillDTO">The updated skill DTO.</param>
+            <returns>
+            A task representing the asynchronous operation, returning an action result with the updated skill DTO (<see cref="T:DTO.SkillDTO.GetSkillDTO"/>).
+            </returns>
+            <remarks>
+            This method asynchronously updates a skill using the provided updated skill DTO.
+            It delegates the actual update to the repository and returns the result as an action result.
+            If successful, it returns an HTTP 200 OK result with the updated skill DTO.
+            If the skill is not found, it returns an HTTP 404 Not Found result.
+            If an exception occurs, it returns an HTTP 500 Internal Server Error with the exception message.
+            </remarks>
+        </member>
+        <member name="M:API.Controllers.SkillsController.DeleteSkillAsync(System.Int32)">
+            <summary>
+            Deletes a skill by its ID asynchronously.
+            </summary>
+            <param name="id">The ID of the skill to delete.</param>
+            <returns>
+            A task representing the asynchronous operation, returning an action result indicating success or failure.
+            </returns>
+            <remarks>
+            This method asynchronously deletes a skill from the repository by its ID.
+            If successful, it returns an HTTP 200 OK result with a message indicating success.
+            If the skill is not found, it returns an HTTP 404 Not Found result.
+            If an exception occurs, it returns an HTTP 500 Internal Server Error with the exception message.
+            </remarks>
+        </member>
     </members>
 </doc>

@@ -12,6 +12,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<ScrappingCSV>();
 builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<SkillsRepository>();
 
 
 // adding DB context 

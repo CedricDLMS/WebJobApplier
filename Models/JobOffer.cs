@@ -12,7 +12,7 @@ namespace Models
     public class JobOffer
     {
         public int Id { get; set; }
-        public string sId { get; set; }
+        public string sId { get; set; } // indeed id
         public string? Text { get; set; }
         public string? CompanyName { get; set; }
         public string? Url { get; set; }
