@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240506215828_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240506215828_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\userapplierdtos\\userapplierwithall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\userapplierdtos\\userapplierwithall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\motivationletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\motivationletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\userapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\userapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\motivationletterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\motivationletterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\skillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\skillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\repositories\\scrappingcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E11FF70-F371-47F8-BD7B-5CEE98D8EF16}|Repositories\\Repositories.csproj|solutionrelative:repositories\\scrappingcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\motivationletterdtos\\motivationlettergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\motivationletterdtos\\motivationlettergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\motivationletterdtos\\motivationlettercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\motivationletterdtos\\motivationlettercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\formationdtos\\updateformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\formationdtos\\updateformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\formationdtos\\getformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\formationdtos\\getformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\dto\\formationdtos\\createformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E991CC-F4E9-4E6C-BE5C-64B6F5A12871}|DTO\\DTO.csproj|solutionrelative:dto\\formationdtos\\createformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|c:\\users\\delma\\source\\repos\\webjobapplier\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B329E04F-9BB7-4AC2-A85A-6517844C10D1}|Models\\Models.csproj|solutionrelative:models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,32 +51,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240506215828_fix.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240506215828_fix.cs",
-              "RelativeDocumentMoniker": "Models\\Migrations\\20240506215828_fix.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Migrations\\20240506215828_fix.cs",
-              "RelativeToolTip": "Models\\Migrations\\20240506215828_fix.cs",
+              "Title": "FormationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\FormationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FormationRepository.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\FormationRepository.cs",
+              "RelativeToolTip": "Repositories\\FormationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:22:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotivationLetterCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
+              "RelativeToolTip": "DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:58:28.979Z",
+              "WhenOpened": "2024-05-06T22:20:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotivationLetterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\MotivationLetterRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MotivationLetterRepository.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\MotivationLetterRepository.cs",
+              "RelativeToolTip": "Repositories\\MotivationLetterRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:50:30.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserApplier.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\UserApplier.cs",
-              "RelativeDocumentMoniker": "Models\\UserApplier.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\UserApplier.cs",
-              "RelativeToolTip": "Models\\UserApplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UpdateFormationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\UpdateFormationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FormationDTOs\\UpdateFormationDTO.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\UpdateFormationDTO.cs",
+              "RelativeToolTip": "DTO\\FormationDTOs\\UpdateFormationDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:57:19.955Z",
+              "WhenOpened": "2024-05-06T22:15:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateFormationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\CreateFormationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FormationDTOs\\CreateFormationDTO.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\CreateFormationDTO.cs",
+              "RelativeToolTip": "DTO\\FormationDTOs\\CreateFormationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:15:32.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GetFormationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\GetFormationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FormationDTOs\\GetFormationDTO.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\FormationDTOs\\GetFormationDTO.cs",
+              "RelativeToolTip": "DTO\\FormationDTOs\\GetFormationDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:15:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formation.cs",
+              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Formation.cs",
+              "RelativeDocumentMoniker": "Models\\Formation.cs",
+              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Formation.cs",
+              "RelativeToolTip": "Models\\Formation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:08:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Skills.cs",
               "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\Skills.cs",
               "RelativeDocumentMoniker": "Models\\Skills.cs",
@@ -97,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "JobOffer.cs",
               "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\JobOffer.cs",
               "RelativeDocumentMoniker": "Models\\JobOffer.cs",
@@ -106,97 +163,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T21:57:14.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SkillsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\SkillsRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\SkillsRepository.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\SkillsRepository.cs",
-              "RelativeToolTip": "Repositories\\SkillsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:56:55.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScrappingCSV.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\ScrappingCSV.cs",
-              "RelativeDocumentMoniker": "Repositories\\ScrappingCSV.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\ScrappingCSV.cs",
-              "RelativeToolTip": "Repositories\\ScrappingCSV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:56:50.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserApplierWithAll.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\UserApplierDTOs\\UserApplierWithAll.cs",
-              "RelativeDocumentMoniker": "DTO\\UserApplierDTOs\\UserApplierWithAll.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\UserApplierDTOs\\UserApplierWithAll.cs",
-              "RelativeToolTip": "DTO\\UserApplierDTOs\\UserApplierWithAll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:56:26.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MotivationLetter.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\MotivationLetter.cs",
-              "RelativeDocumentMoniker": "Models\\MotivationLetter.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Models\\MotivationLetter.cs",
-              "RelativeToolTip": "Models\\MotivationLetter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:54:31.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MotivationLetterGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterGetDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\MotivationLetterDTOs\\MotivationLetterGetDTO.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterGetDTO.cs",
-              "RelativeToolTip": "DTO\\MotivationLetterDTOs\\MotivationLetterGetDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:51:48.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MotivationLetterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\MotivationLetterRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\MotivationLetterRepository.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\Repositories\\MotivationLetterRepository.cs",
-              "RelativeToolTip": "Repositories\\MotivationLetterRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowCcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:50:30.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MotivationLetterCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
-              "ToolTip": "C:\\Users\\delma\\source\\repos\\WebJobApplier\\DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
-              "RelativeToolTip": "DTO\\MotivationLetterDTOs\\MotivationLetterCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:49:55.807Z",
               "EditorCaption": ""
             }
           ]
