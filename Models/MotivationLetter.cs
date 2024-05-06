@@ -14,7 +14,7 @@ namespace Models
         public int Id {  get; set; }
         public string Name { get; set; }
         public string Content { get; set; }
-
+        public DateTime SubmissionDate { get; set; }
         // EF Links
         public int UserApplierID {  get; set; }
         public UserApplier Applier { get; set; }
