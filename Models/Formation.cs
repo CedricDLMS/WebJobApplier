@@ -22,6 +22,5 @@ namespace Models
 
         public List<UserApplier>? Appliers { get; set; }
 
-
     }
 }

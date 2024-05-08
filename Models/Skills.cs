@@ -17,7 +17,6 @@ namespace Models
 
         // EF NAVIGATIONS
         public List<UserApplier>? UserAppliers { get; set; }
-        
 
     }
 }
