@@ -19,7 +19,7 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> csvParing(AppDbContext appDbContext)
         {
-            var yes = ScrappingCSV.CsvHelper(appDbContext);
+            var yes = await ScrappingCSV.CsvHelper(appDbContext);
 
             return Ok(yes);
         }

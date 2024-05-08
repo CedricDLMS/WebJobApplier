@@ -66,7 +66,7 @@ namespace Repositories
         /// </summary>
         /// <param name="dto">The DTO containing information about the motivation letter to create.</param>
         /// <returns>A task representing the asynchronous operation, returning an <see cref="EntityEntry"/> representing the created motivation letter.</returns>
-        public async Task<EntityEntry> CreateAsync(MotivationLetterCreateDTO dto)
+        public async Task<bool> CreateAsync(MotivationLetterCreateDTO dto)
         {
             var motivationLetter = new MotivationLetter
             {
@@ -74,8 +74,9 @@ namespace Repositories
                 Content = dto.Content,
                 SubmissionDate = dto.SubmissionDate
             };
-            EntityEntry<MotivationLetter>? result = _context.MotivationLetters.Add(motivationLetter);
-            await _context.SaveChangesAsync();
+            var add = _context.MotivationLetters.Add(motivationLetter);
+            int resultInt = await _context.SaveChangesAsync();
+            bool result = resultInt > 0;
             return result;
         }
         /// <summary>

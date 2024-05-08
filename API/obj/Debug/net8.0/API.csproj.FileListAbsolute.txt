@@ -137,3 +137,12 @@ C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.dll
 C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Constant.pdb
 C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\DTO.dll
 C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\DTO.pdb
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Scrutor.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\delma\source\repos\WebJobApplier\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

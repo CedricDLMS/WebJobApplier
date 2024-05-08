@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,6 +21,8 @@ namespace Models
 
         // Links for EF 
 
+        public string AppUserId {  get; set; }
+        public AppUser AppUser { get; set; }
         public List<Skills>? Skills { get; set; } // all nullable cause user can have them null 
         public List<MotivationLetter>? Letters { get; set; }
         public List<Formation>? Formations { get; set; }
